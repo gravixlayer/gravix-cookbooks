@@ -8,11 +8,11 @@
   <a href="#" style="color: #06b6d4;">Discord</a>
 </p>
 
-# Gravix Layer Code Recipes
+# Gravix Layer Cookbooks
 
-Welcome to the ultimate collection of AI-powered code recipes for developers.
+Welcome to the ultimate collection of AI-powered cookbooks for developers.
 
-The Gravix Layer Code Recipes is your go-to resource for building cutting-edge AI applications with [Gravix Layer](https://gravixlayer.com/). Whether you're a seasoned developer or just starting your AI journey, these modular recipes will accelerate your development process.
+The Gravix Layer Cookbooks is your go-to resource for building cutting-edge AI applications with [Gravix Layer](https://gravixlayer.com/). Whether you're a seasoned developer or just starting your AI journey, these modular cookbooks will accelerate your development process.
 
 ## Why Gravix Layer?
 
@@ -101,16 +101,16 @@ ChatCompletion();
 
 </details>
 
-### 3. Explore the Recipes
-Browse the recipes below, copy the code, and integrate into your projects.
+### 3. Explore the Cookbooks
+Browse the cookbooks below, copy the code, and integrate into your projects.
 
-## Code Recipes
+## Cookbooks
 
-> **Note**: Each recipe is designed to be modular.
+> **Note**: Each cookbook is designed to be modular.
 
-| Recipe | Description | Open |
+| Cookbook | Description | Open |
 | ------ | ----------- | ---- |
-| [**MCP Integration**](Model%20Context%20Protocol.ipynb) | Implement Model Context Protocol for standardized AI data access and tool integration. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Model%20Context%20Protocol.ipynb) |
+| [**MCP Implementation**](Model%20Context%20Protocol.ipynb) | Build MCP server and client using a working to do application example. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Model%20Context%20Protocol.ipynb) |
 
 
 ## Explore Further
@@ -125,10 +125,10 @@ Ready to level up your AI development? Check out these essential resources:
 
 ## Contributing
 
-We welcome contributions from the developer community. If you have a recipe that could help other developers, we want to hear from you!
+We welcome contributions from the developer community. If you have a cookbook that could help other developers, we want to hear from you!
 
 **Ways to contribute:**
-- Submit new recipes
+- Submit new cookbooks
 - Report bugs or issues
 - Suggest improvements
 - Improve documentation
