@@ -110,7 +110,7 @@ Browse the recipes below, copy the code, and integrate into your projects.
 
 | Recipe | Description | Open |
 | ------ | ----------- | ---- |
-| [**MCP Integration**](recipes/mcp/model_context_protocol.ipynb) | Implement Model Context Protocol for standardized AI data access and tool integration. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravix-layer/code-recipes/blob/main/recipes/mcp/model_context_protocol.ipynb) |
+| [**MCP Integration**](Model%20Context%20Protocol.ipynb) | Implement Model Context Protocol for standardized AI data access and tool integration. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Model%20Context%20Protocol.ipynb) |
 
 
 ## Explore Further
