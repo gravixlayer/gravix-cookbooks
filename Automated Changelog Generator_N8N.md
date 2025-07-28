@@ -8,6 +8,10 @@ This workflow automates the generation and maintenance of a `CHANGELOG.md` file 
 
 ---
 
+![Automated GitHub Changelog Workflow](images/n8n%20changelog%20gen%20workflow.png)
+
+---
+
 ## Architecture & Workflow Steps
 
 1. **Trigger**: Listens for GitHub push events.
