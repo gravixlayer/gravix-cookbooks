@@ -5,7 +5,7 @@
   <a href="https://gravixlayer.com/" style="color: #06b6d4;">Website</a> •
   <a href="https://platform.gravixlayer.com/signin?callbackUrl=%2F" style="color: #06b6d4;">Platform</a> •
   <a href="https://docs.gravixlayer.com/docs/getting-started/" style="color: #06b6d4;">Docs</a> •
-  <a href="https://discord.com/invite/9GAZpeYB" style="color: #06b6d4;">Discord</a>
+  <a href="https://discord.gg/dTsjM3YTxz" style="color: #06b6d4;">Discord</a>
 </p>
 
 # Gravix Layer Cookbooks
@@ -142,7 +142,7 @@ Ready to contribute? Open a pull request or reach out to us!
 
 ### Gravix Layer
 
-[**Start Building**](https://platform.gravixlayer.com/signin?callbackUrl=%2F) • [**Join Community**](https://discord.com/invite/9GAZpeYB)
+[**Start Building**](https://platform.gravixlayer.com/signin?callbackUrl=%2F) • [**Join Community**](https://discord.gg/dTsjM3YTxz)
 
 </div>
 
