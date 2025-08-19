@@ -113,6 +113,7 @@ Browse the cookbooks below, copy the code, and integrate into your projects.
 | [**MCP Implementation**](Model%20Context%20Protocol.ipynb) | Build MCP server and client using a working to do application example. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Model%20Context%20Protocol.ipynb) |
 | [**Automated GitHub Changelog**](Automated%20Changelog%20Generator_N8N.md) | Effortlessly generate and maintain a professional, AI-powered changelog in your GitHub repository after every push, using n8n. | [View Cookbook](Automated%20Changelog%20Generator_N8N.md) |
 | [**Text-to-SQL Multi-Agent System**](Text-to-SQL.ipynb) | Multi-agent AI system for converting natural language to SQL and querying the database. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Text-to-SQL.ipynb) |
+| [**Stock Analysis using LangChain Orchestration**](Agentic%20Stock%20Analysis.ipynb) | Analyze stocks with financial data, technical indicators, news sentiment, and LLM-powered insights in a streamlined workflow. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Agentic%20Stock%20Analysis.ipynb) |
 
 ## Explore Further
 
