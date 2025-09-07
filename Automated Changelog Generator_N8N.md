@@ -275,7 +275,7 @@ Input Data:
         "headerParameters": {"parameters": [{"name": "Authorization", "value": "=Bearer <GRAVIXLAYER_API_KEY>"}]},
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={{ { 'model': 'llama3.1:8b', 'messages': [{ 'role': 'user', 'content': 'Your formatted AI prompt here.' }] } }}",
+        "jsonBody": "={{ { 'model': 'meta-llama/llama-3.1-8b-instruct', 'messages': [{ 'role': 'user', 'content': 'Your formatted AI prompt here.' }] } }}",
         "options": {}
       },
       "id": "<ID>",
