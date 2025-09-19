@@ -115,6 +115,7 @@ Browse the cookbooks below, copy the code, and integrate into your projects.
 | [**Text-to-SQL Multi-Agent System**](Text-to-SQL.ipynb) | Multi-agent AI system for converting natural language to SQL and querying the database. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Text-to-SQL.ipynb) |
 | [**Stock Analysis using LangChain Orchestration**](Agentic%20Stock%20Analysis.ipynb) | Analyze stocks with financial data, technical indicators, news sentiment, and LLM-powered insights in a streamlined workflow. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Agentic%20Stock%20Analysis.ipynb) |
 | [**Agentic Email Triage Workflow**](Email%20Triage%20Agent.ipynb) | Automated email processing with intelligent prioritization, summarization, and multi-format reporting using agent orchestration. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Email%20Triage%20Agent.ipynb) |
+| [**Simple RAG**](Simple%20RAG.ipynb) | Simple Retrieval-Augmented Generation pipeline for fast, simple knowledge integration. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Simple%20RAG.ipynb) |
 
 ## Explore Further
 
