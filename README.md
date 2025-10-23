@@ -118,6 +118,7 @@ Browse the cookbooks below, copy the code, and integrate into your projects.
 | [**Simple RAG**](Simple%20RAG.ipynb) | Naive retrieval-augmented generation example: ingest docs, index vectors, and run basic retrieval. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Simple%20RAG.ipynb) |
 | [**Agentic RAG Cookbook**](Agentic%20RAG%20Cookbook.ipynb) | Multi Agents that ingest PDFs, index vectors, retrieve context, and generate sourced answers. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Agentic%20RAG%20Cookbook.ipynb) |
 | [**Contextual RAG**](Contextual%20RAG.ipynb) | Combine retrieval with dynamic prompts and context windows for precise answers. | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Contextual%20RAG.ipynb) |
+| [**Proactive AI Learning Coach**](Proactive%20AI%20Learning%20Coach.ipynb) | Personalised learning coach that remembers goals, extracts progress from conversations, and sends short, tailored suggestions | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gravixlayer/Code-Recipes/blob/main/Proactive%20AI%20Learning%20Coach.ipynb) |
 
 ## Explore Further
 
