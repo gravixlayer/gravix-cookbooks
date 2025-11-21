@@ -127,8 +127,7 @@ Browse the cookbooks below, copy the code, and integrate into your projects.
 Ready to level up your AI development? Check out these essential resources:
 
 <p>
-  • <a href="https://docs.gravixlayer.com/docs/getting-started/" style="color: #06b6d4;"><strong>Developer Documentation</strong></a> - Complete guides and tutorials<br>
-  • <a href="https://docs.gravixlayer.com/docs/supported-models" style="color: #06b6d4;"><strong>Supported Models</strong></a> - Browse our model catalog<br>
+  • <a href="https://docs.gravixlayer.com/documentation/getting-started/overview" style="color: #06b6d4;"><strong>Developer Documentation</strong></a> - Complete guides and tutorials<br>
   • <a href="https://platform.gravixlayer.com/" style="color: #06b6d4;"><strong>Platform Dashboard</strong></a> - Manage your deployments
 </p>
 
